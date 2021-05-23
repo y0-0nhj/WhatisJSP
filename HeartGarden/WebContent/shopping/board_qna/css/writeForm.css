@@ -1,0 +1,24 @@
+
+#container { width: 500px; margin: 0 auto;}
+h3 { text-align: center; font-family: 'Noto Serif KR'; font-size:1.5em; color: lightblack;}
+table { font-size: 0.8em; width: 500px; margin: 0 auto; border: 1px solid lightgray; border-collapse: collapse; 
+border-top: 2px solid #fdb5b5; border-bottom: 2px solid #fdb5b5; border-left: hidden; border-right: hidden;}
+th, td { border: 1px solid lightgray;}
+tr { height: 35px;}
+th { background-color: #fff2f2; font-weight: normal;}
+td { background-color: white;}
+input, textarea, select { margin-left: 5px;}
+
+#writer { border: none; outline: none;}
+#btn { width: 80px; height: 27px; border: none; line-height: 20px; cursor: pointer;
+ background-color: #FF9999; color: white; padding: 5px;}
+#btn:hover { background-color: #fbe8e8; color: #f9a9a9; font-weight: bold;}
+
+
+
+
+
+
+
+
+

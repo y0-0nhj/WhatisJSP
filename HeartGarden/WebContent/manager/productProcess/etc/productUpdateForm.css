@@ -1,0 +1,18 @@
+/* productRegisterForm.css */
+
+#container { width: 500px; margin: 0 auto; font-size:0.8em;}
+h2 { text-align: center;}
+a { text-decoration: none; font-size: 0.9em; padding-right: 10px;}
+table { width: 100%; border: 1px solid gray; border-collapse: collapse;
+border-left: hidden; border-right: hidden;}
+th, td { border: 1px solid gray;}
+th { font-weight: normal; background: rgba(100,100,200, 0.1); color: navy;}
+td { padding-left: 5px;}
+tr { height: 28px;}
+.tr_first, .tr_end { border: 2px solid navy; background: rgba(100,100,200, 0.5);}
+.tr_first { text-align: right;}
+.tr_end { height: 40px;}
+.small_text { font-size: 0.8em;}
+input[type="submit"], input[type="reset"] { width: 80px; height: 30px; border: none;
+background: navy; color: white;}
+input[type="submit"]:active, input[type="reset"]:active { background: gray;}

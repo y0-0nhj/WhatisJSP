@@ -1,0 +1,11 @@
+
+/* managerLoginForm.css */
+#container { width: 320px; margin: 0 auto;}
+h2 { text-align: center; margin-left: 30px;}
+ul { list-style: none;}
+li { margin: 10px 0;}
+label { float: left; width: 80px;}
+input[type="text"], input[type="password"] { width: 190px;}
+input[type="submit"] { width: 100%; height: 35px; border: none; 
+background: rgba(100,100,200,0.9); color: white; } 
+input[type="submit"]:hover { background: rgba(100,100,200,0.3); color: navy; font-weight: 700; cursor: pointer;}

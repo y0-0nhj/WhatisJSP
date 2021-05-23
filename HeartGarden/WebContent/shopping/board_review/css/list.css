@@ -1,0 +1,32 @@
+/* list.jsp css 설정 */
+
+#container { width: 1850px; margin: 0 auto;}
+h3 { text-align: center; font-family: 'Noto Serif KR'; font-size:1.5em; color: lightblack; }
+button { width: 70px; height:25px; border: none; background-color: #FF9999; color: white;
+font-weight: bold; opacity: 0.7; padding: 2px; cursor: pointer; }
+button:hover {  font-weight: bold; background-color: #fbe8e8; color: #f9a9a9;}
+table { width: 1000px; border: 1px solid lightgray; border-collapse: collapse; margin: 0 auto; font-size: 0.9em;
+border-top: 2px solid pink; border-bottom: 2px solid #f9a9a9; border-left: hidden; border-right: hidden; }
+th, td { border: 1px solid lightgray;}
+tr { height: 30px;}
+th { font-weight: normal;}
+.td_subject { padding-left: 10px; }
+.tr_first { border: none; background: #f9a9a9; color: white;}
+.tr_content1 { background-color: #fef5f5;}
+.tr_content2 { background-color: white;}
+
+/* a태그 설정 */
+a { text-decoration: none; color: black;}
+a:hover { color: #FF9999;}
+
+/* 첫번째 테이블 테두리 삭제 */
+.table1 { border: none; margin-bottom: 10px; }
+.table1 td { border: none ;}
+
+/* paging */
+#paging { margin-top: 10px; text-align: center;}
+#pbox { display: inline-block; width: 25px; height: 25px; border-radius: 12.5px; 
+margin-left: 2px; margin-right: 2px; font-size: 0.8em; text-align: center; line-height: 25px;}
+.pagebox1 { border: 1px solid pink; background-color: pink; color: white; font-weight: bold; opacity: 0.7;}
+.pagebox2 { border: 1px solid gray; color: gray; }
+

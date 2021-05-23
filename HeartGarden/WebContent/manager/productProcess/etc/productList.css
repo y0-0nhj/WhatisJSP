@@ -1,0 +1,37 @@
+/* productList.css */
+
+#container { width: 900px; margin: 0 auto; font-size: 0.6em;}
+
+h2 { text-align: center; color: navy;}
+
+/* 상단 테이블 */
+.top_table { width: 100%;}
+button { border: none; background: navy; color: white; padding: 5px; cursor: pointer;}
+button:hover { background: rgba(100,100,200,0.3); color: navy; font-weight: 700;}
+
+/* 본문 테이블 */
+.content_table { width: 100%; border: 1px solid gray; border-collapse: collapse;
+border-top: 2px solid navy; border-bottom: 2px solid navy; border-left: hidden; border-right: hidden;}
+.content_table th, .content_table td { border: 1px solid gray;}
+.content_table tr { height: 30px;}
+.title_row { border-bottom: 2px solid navy; background: rgba(100,100,200,0.5)}
+
+/* 테이블 줄맞춤 */
+.center { text-align: center;}
+.left { text-align: left; padding-left: 10px; padding-right: 10px;}
+.right { text-align: right; padding-right: 10px;}
+
+/* 로우 색상 */
+.gray { background: rgba(100,100,100,0.1);}
+.white { background: rgba(255,255,255,1);}
+
+table a { text-decoration: none; color: blue; font-size: 1.1em; font-weight: 700; padding: 5px;}
+table a:hover { background: blue; color: white;}
+
+/* paging */
+#paging { margin-top: 10px; text-align: center;}
+#pbox { display: inline-block; width: 25px; height: 25px; border-radius: 12.5px; 
+margin-left: 2px; margin-right: 2px; font-size: 0.8em; text-align: center; line-height: 25px;}
+.pagebox1 { border: 1px solid navy; background-color: navy; color: white; font-weight: bold; opacity: 0.7;}
+.pagebox2 { border: 1px solid gray; color: gray; }
+.pagebox3 { border: 1px solid gray; background: rgba(100,100,200,0.2);  }
