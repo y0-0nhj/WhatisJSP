@@ -113,11 +113,13 @@ Menu별 전체보기 목록
 
 
 > ### 쇼핑몰 프로젝트 제작에 도움을 주었던 샵이나 이미지 출처
-https://smartstore.naver.com/pulddegi
-https://smartstore.naver.com/plant_mk
-http://www.cultwo-flower.com/?NaPm=ct%3Dkp3rb32u%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3D%7Chk%3Da2d3e02390cd8d3237a8fec97fb0f5eec559f835
+- https://smartstore.naver.com/pulddegi  `풀떼기하우스`
+- https://smartstore.naver.com/plant_mk   `식물마켓`
+- http://www.cultwo-flower.com/?NaPm=ct%3Dkp3rb32u%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3D%7Chk%3Da2d3e02390cd8d3237a8fec97fb0f5eec559f835   `컬투플라워`
 
 꽃 종류 이미지 Googling
-https://www.google.com/search?sxsrf=ALeKk01j9aVLBIUmJyvwgy9SgH3FW4L5vQ:1621930138739&source=univ&tbm=isch&q=%EC%88%98%EB%A0%88%EA%B5%AD%ED%99%94&sa=X&ved=2ahUKEwj2h5TOsOTwAhUGqpQKHT1oA5AQjJkEegQIBRAB&biw=1552&bih=870
-https://www.google.com/search?q=%EA%B5%AD%ED%99%94&tbm=isch&ved=2ahUKEwju5qbQsOTwAhVCWpQKHcNhAHgQ2-cCegQIABAA&oq=%EA%B5%AD%ED%99%94&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAUKNfWKNfYLZgaABwAHgAgAFoiAFokgEDMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=n7CsYK6bDsK00QTDw4HABw&bih=870&biw=1552
-https://www.google.com/search?q=%EB%B0%B1%ED%95%A9&tbm=isch&ved=2ahUKEwj4u_PWsOTwAhWXx4sBHT4NCFMQ2-cCegQIABAA&oq=%EB%B0%B1%ED%95%A9&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgUIABCxA1CVWFikW2CuXGgAcAB4AIABdIgBmQWSAQMwLjaYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=rbCsYLixBJePr7wPvpqgmAU&bih=870&biw=1552
+- https://www.google.com/search?sxsrf=ALeKk01j9aVLBIUmJyvwgy9SgH3FW4L5vQ:1621930138739&source=univ&tbm=isch&q=%EC%88%98%EB%A0%88%EA%B5%AD%ED%99%94&sa=X&ved=2ahUKEwj2h5TOsOTwAhUGqpQKHT1oA5AQjJkEegQIBRAB&biw=1552&bih=870  `수레국화`
+- https://www.google.com/search?q=%EA%B5%AD%ED%99%94&tbm=isch&ved=2ahUKEwju5qbQsOTwAhVCWpQKHcNhAHgQ2-cCegQIABAA&oq=%EA%B5%AD%ED%99%94&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAUKNfWKNfYLZgaABwAHgAgAFoiAFokgEDMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=n7CsYK6bDsK00QTDw4HABw&bih=870&biw=1552 `국화`
+- https://www.google.com/search?q=%EB%B0%B1%ED%95%A9&tbm=isch&ved=2ahUKEwj4u_PWsOTwAhWXx4sBHT4NCFMQ2-cCegQIABAA&oq=%EB%B0%B1%ED%95%A9&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgUIABCxA1CVWFikW2CuXGgAcAB4AIABdIgBmQWSAQMwLjaYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=rbCsYLixBJePr7wPvpqgmAU&bih=870&biw=1552 `백합`
+- https://www.google.com/search?q=%ED%8A%A4%EB%A6%BD&tbm=isch&ved=2ahUKEwjExLTdsOTwAhVKxIsBHa2UB9UQ2-cCegQIABAA&oq=%ED%8A%A4%EB%A6%BD&gs_lcp=CgNpbWcQAzIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCABQ3L4IWLLCCGC1wwhoAHAAeACAAbcBiAG-BZIBAzAuNpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=urCsYMT_K8qIr7wPrameqA0&bih=870&biw=1552 `튤립`
+ 
