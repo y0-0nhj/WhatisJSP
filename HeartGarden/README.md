@@ -110,3 +110,14 @@ Menu별 전체보기 목록
 5. 두 달이라는 짧은 기간동안 만들어진 프로젝트라 부족하고 단순한 기능 구현을 우선으로 했지만 웹 개발의 전체적인 과정을 익혔습니다 . 향후 응용된 기술을 구현할 계획입니다.
 
 <br>
+
+
+> ### 쇼핑몰 프로젝트 제작에 도움을 주었던 샵이나 이미지 출처
+https://smartstore.naver.com/pulddegi
+https://smartstore.naver.com/plant_mk
+http://www.cultwo-flower.com/?NaPm=ct%3Dkp3rb32u%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3D%7Chk%3Da2d3e02390cd8d3237a8fec97fb0f5eec559f835
+
+꽃 종류 이미지 Googling
+https://www.google.com/search?sxsrf=ALeKk01j9aVLBIUmJyvwgy9SgH3FW4L5vQ:1621930138739&source=univ&tbm=isch&q=%EC%88%98%EB%A0%88%EA%B5%AD%ED%99%94&sa=X&ved=2ahUKEwj2h5TOsOTwAhUGqpQKHT1oA5AQjJkEegQIBRAB&biw=1552&bih=870
+https://www.google.com/search?q=%EA%B5%AD%ED%99%94&tbm=isch&ved=2ahUKEwju5qbQsOTwAhVCWpQKHcNhAHgQ2-cCegQIABAA&oq=%EA%B5%AD%ED%99%94&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAUKNfWKNfYLZgaABwAHgAgAFoiAFokgEDMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=n7CsYK6bDsK00QTDw4HABw&bih=870&biw=1552
+https://www.google.com/search?q=%EB%B0%B1%ED%95%A9&tbm=isch&ved=2ahUKEwj4u_PWsOTwAhWXx4sBHT4NCFMQ2-cCegQIABAA&oq=%EB%B0%B1%ED%95%A9&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgUIABCxA1CVWFikW2CuXGgAcAB4AIABdIgBmQWSAQMwLjaYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=rbCsYLixBJePr7wPvpqgmAU&bih=870&biw=1552
